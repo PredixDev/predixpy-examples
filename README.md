@@ -38,3 +38,4 @@ environment variables:
 - **PREDIX_APP_CLIENT_ID**
 - **PREDIX_APP_CLIENT_SECRET**
 
+There are several specific variables for each service you might want to use.
